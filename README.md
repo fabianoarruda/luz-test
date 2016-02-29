@@ -11,3 +11,4 @@
     rspec --format doc
     
     
+Note: tested on Mac OS with ruby 2.2.3.
